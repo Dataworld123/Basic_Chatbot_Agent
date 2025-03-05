@@ -1,5 +1,5 @@
 
-[![Chatbot Background](https://github.com/Dataworld123/Basic_Chatbot_Agent/blob/main/Screenshot%202025-03-06%20001723.png)
+![Chatbot Background](https://github.com/Dataworld123/Basic_Chatbot_Agent/blob/main/Screenshot%202025-03-06%20001723.png)
 
 # AI Chatbot Agent with LangGraph, Groq, and Tavily Search
 
