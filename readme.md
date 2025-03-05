@@ -1,3 +1,6 @@
+
+ [![AI Chatbot Agent with LangGraph, Groq, and Tavily Search](https://github.com/Dataworld123/Basic_Chatbot_Agent/blob/main/Screenshot%202025-03-06%20001723.png)
+
 # AI Chatbot Agent with LangGraph, Groq, and Tavily Search
 
 This project showcases the development of an AI chatbot agent that leverages the capabilities of LangGraph, Groq's language models, and Tavily for enhanced web search functionality. The application features a FastAPI backend and a Streamlit frontend, allowing users to interact with the AI agent through a user-friendly web interface.
